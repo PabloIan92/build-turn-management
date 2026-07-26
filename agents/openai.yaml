@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gestión de Turnos Operativos"
+  short_description: "Diseña sistemas seguros de turnos y cuadrillas"
+  default_prompt: "Usa $build-turn-management para diseñar o mejorar un sistema genérico de turnos operativos."
